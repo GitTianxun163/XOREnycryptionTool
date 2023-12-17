@@ -1,0 +1,8 @@
+# IDE文件
+.vscode
+.idea
+.vs
+
+# 编译文件（以及过程中产生的文件）
+build
+bin
